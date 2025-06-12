@@ -19,9 +19,23 @@ Ideal for freelancers, students, and professionals who:
 ## Demo
 
 ### Before Sorting
-![Before Screenshot](images/before.png)
+![Before](Before)
+
+### The Script in Action
+![Code](code)
 
 ### After Sorting
-![After Screenshot](images/after.png)
+![After](After1)
+![After](After2)
 
+---
 
+##  How It Works
+
+The script scans a target folder and moves files into subfolders based on their type:
+- `.jpg`, `.png`, `.svg` → `Images/`
+- `.mp4`, `.mkv`, `.mov` → `Videos/`
+- `.pdf`, `.docx`, `.txt` → `Documents/`
+- And so on...
+
+It also creates the `After/` folder for the sorted structure.
