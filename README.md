@@ -1,22 +1,22 @@
 # Auto File Sorter – Organize Downloads Folder by File Type
 
-  🗂️ Auto File Sorter – Organize Your Downloads Folder
+## Auto File Sorter – Organize Your Downloads Folder
 
 This script automatically sorts files from a "Before" folder into categorized subfolders (Documents, Images, Videos, etc.) and moves them to a structured "After" folder.
 
-  🚀 Features
+## Features
 - Detects file types based on extensions
 - Automatically creates destination folders
 - Moves files cleanly and safely
 - Cross-platform ready (Windows/Linux/Mac with small path tweaks)
 
-   💼 Real Use Case
+## Real Use Case
 Ideal for freelancers, students, and professionals who:
 - Want to keep their downloads clean
 - Work with many file types
 - Need to save time on manual sorting
 
-   🖼️ Demo
+## Demo
 
 ### Before Sorting
 ![Before Screenshot](images/before.png)
